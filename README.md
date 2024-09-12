@@ -56,6 +56,10 @@ python manage.py runserver (python manage.py runserver 5050 (if port 8000 is blo
 2. Register as a user or log in if you already have an account
 3. List your properties or search for properties that interest you
 
+## ADMIN DASHBOARD IN ADDING LISTINGS
+<img width="926" alt="realeatate-admin" src="https://github.com/user-attachments/assets/90e2acfd-7ba1-4254-a788-20b78b76f4d8">
+
+
 ## Conclusion
 This real estate project is a great starting point for building a more complex real estate platform. It can be further enhanced by adding more features and integrating with other platforms for a better user experience.
 
